@@ -1,7 +1,7 @@
 import { ethers } from "ethers";
 import { xBOOAPR, booPriceUSD } from "./xBooAPRv2.js";
 import { AcelabV3Abi, AcelabV3Adress } from "./contracts/AceLabV3.js";
-import { xBOO_Address, xBOO_ABI } from "./xBOO.js";
+import { xBOO_Address, xBOO_ABI } from "./contracts/xBOO.js";
 import { fetchFTM_PriceUSD, fetchTokenPrice_FTM } from "./tokenPriceData.js";
 
 //DECLARE RPC_PROVIDER
