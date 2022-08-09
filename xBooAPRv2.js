@@ -1,6 +1,6 @@
 import { ethers } from "ethers";
-import { BOOAbi, BOOAddress } from "./BOO.js";
-import { BooUsdLP_ABI, BooUsdLP_Address } from "./BooUsdLP.js";
+import { BOOAbi, BOOAddress } from "./contracts/BOO.js";
+import { BooUsdLP_ABI, BooUsdLP_Address } from "./contracts/BooUsdLP.js";
 
 //DECLARE RPC_PROVIDER
 const provider = new ethers.providers.JsonRpcProvider(
