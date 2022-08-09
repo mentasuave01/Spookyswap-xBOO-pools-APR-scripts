@@ -9,4 +9,6 @@ npm install
 ## Usage
 
 Just change index.js for the poolID
-node .
+
+then
+ node .
