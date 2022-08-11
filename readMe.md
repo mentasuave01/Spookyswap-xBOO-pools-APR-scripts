@@ -12,3 +12,6 @@ Just change index.js for the poolID
 
 then
  node .
+ 
+ ##Known bugs
+xtarot price is not listed on subgraph poolID:4
